@@ -1,3 +1,3 @@
-theme: jekyll-theme-slate
+remote_theme: cotes2020/jekyll-theme-chirpy
 title: AI State of the ART
 description: An overview of the best performing AI techniques
