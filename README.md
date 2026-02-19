@@ -9,3 +9,5 @@ The goal of this repo is to provide an overview of the best performing AI techni
 | Images          | Classification               | [EfficientNetV2](https://pytorch.org/vision/main/models/efficientnetv2.html) |                                                                  |
 |                 | Object detection             | [YOLOv8](https://github.com/ultralytics/ultralytics)                         |                                                                  |
 | Audio           | Automatic speech recognition | [Whisper V3](https://huggingface.co/openai/whisper-large-v3)                 | [Faster Whisper](https://github.com/guillaumekln/faster-whisper) |
+
+See something out of date? Submit a pull request in our [GitHub repo](https://github.com/upshiftbe/ai-state-of-the-art)
