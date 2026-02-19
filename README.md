@@ -12,6 +12,3 @@ The goal of this repo is to provide an overview of the best performing AI techni
 |                 | Object detection             | [YOLOv8](https://github.com/ultralytics/ultralytics)                         |                                                                  |
 | Audio           | Automatic speech recognition | [Whisper V3](https://huggingface.co/openai/whisper-large-v3)                 | [Faster Whisper](https://github.com/guillaumekln/faster-whisper) |
 
-## Datasets credits
-
-Audio [Pixabay](https://pixabay.com/sound-effects/phone-conversation-19756/)
